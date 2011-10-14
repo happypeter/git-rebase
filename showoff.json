@@ -1,1 +1,4 @@
-{ "name": "rebase", "sections": [ {"section":"rebase"} ]}
+[ 
+  {"section":"intro"}, 
+  {"section":"rebase"} 
+]
