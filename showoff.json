@@ -1,4 +1,7 @@
 [ 
   {"section":"intro"}, 
-  {"section":"rebase"} 
+  {"section":"self_intro"},
+  {"section":"what_is_git"},
+  {"section":"rebase"},
+  {"section":"notsub"}
 ]
